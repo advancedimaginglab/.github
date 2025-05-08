@@ -1,25 +1,55 @@
-# Advanced Medical Imaging Lab
-## About Us
+# AI4PM — Advanced Imaging for Personalized Medicine
 
-Welcome to the **Advanced Medical Imaging Lab**, a research lab specializing in cardiovascular and vascular imaging at the [San Raffaele Hospital](https://www.hsr.it/). 
+**AI4PM** (Advanced Imaging for Personalized Medicine) is a joint initiative between [Vita-Salute San Raffaele University](https://www.unisr.it/) and [IRCCS San Raffaele Hospital](https://www.hsr.it/), focused on translational research in **quantitative imaging**, **radiomics**, and **AI-driven diagnostic pipelines**.
 
-## Our Mission
+This repository hosts code, tools, and resources developed by our team, which integrates cutting-edge imaging technologies with computational methods to support precision diagnostics and personalized healthcare.
 
-Our mission is to enhance the understanding and treatment of cardiovascular and vascular diseases through cutting-edge imaging technologies. We focus on developing and applying advanced computational methods to analyze and interpret complex imaging data.
+---
 
-## Research Areas
+## 🔬 Focus Areas
 
-  - **Cardiovascular Imaging**: Techniques and algorithms for analyzing heart structure and function.
-  - **Vascular Imaging**: Advanced methods for visualizing and quantifying vascular structures and pathologies.
-  - **Image Processing**: Development of software tools for image enhancement, segmentation, and analysis.
-  - **Machine Learning in Imaging**: Leveraging AI to improve diagnostic accuracy and predictive modeling.
+- Extraction and validation of quantitative imaging biomarkers
+- Multimodal image processing (MRI, CT, Photon Counting CT)
+- Radiomics for high-dimensional feature extraction and phenotype characterization
+- Automated segmentation, registration, and image normalization
+- Development of machine learning / deep learning models
 
-## Our Team
+---
 
-Our team consists of interdisciplinary researchers including radiologists, computer scientists and bioengineers.
+## 💡 What We Do
 
-![avatar](https://wsrv.nl/?url=https://research.hsr.it/static/upload/esp/esposito-antonio-mc.jpg?v=4&h=170&w=170&fit=inside&mask=circle&maxage=7d)
+Our work bridges **clinical radiology** and **computational science** through:
 
-## Projects
+- Development of reproducible, high-throughput imaging pipelines
+- Integration of advanced image analysis with clinical, laboratory, and omics data
+- AI-based prediction models for early diagnosis and treatment monitoring
+- Infrastructure and datasets to support prospective and retrospective studies
 
-## Publications
+---
+
+## 👥 Team
+
+### 🏥 Clinical
+
+- **Prof. Antonio Esposito** — Full Professor of Radiology, Director of the Unit  
+- **Prof.ssa Anna Palmisano** — Associate Professor of Radiology, RUF  
+- **Dr. Davide Vignale** — Assistant Professor (RTD-A), Radiology Specialist  
+- **Dr.ssa Caterina Colantoni** — Staff Radiologist  
+- **Dr. Vittorio Morrone** — Research Fellow, Radiology Specialist  
+- **Dr.ssa Chiara Gnasso** — PhD Candidate, Radiology Specialist  
+
+### 🧑🏻‍💻 Technical
+
+- **Alberto Colombo** — Biomedical Engineer  
+- **Francesco Pisu** — Computer Scientist  
+- **Marta Liberotti** — Biomedical Engineer  
+- **Davide Serra** — Mathematical Engineering  
+
+--- 
+
+## 📫 Contact
+
+For more information, visit our institutional pages or contact the AI4PM team at:
+
+📧 [pisu.francesco@hsr.it]  
+🌐 [https://www.hsr.it](https://www.hsr.it) | [https://www.unisr.it](https://www.unisr.it)
